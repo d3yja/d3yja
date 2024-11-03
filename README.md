@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m a passionate 17-year-old developer with a fo
     🖥 Tech Stack: Proficient in Python, OOP, NumPy, pandas, turtle, and Unity; experienced in Figma for design.
 
 🛠 My Projects
+
 🎓 Gamified Student Lifestyle App (Under developement)
 
 A lifestyle app that helps students track and improve their academic stats with gamified elements:
