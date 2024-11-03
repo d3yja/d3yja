@@ -1,7 +1,6 @@
 👋 Hi there! I'm Deyja!
 
 Welcome to my GitHub profile! I’m a passionate 17-year-old developer with a focus on AI, data mining, and gamified applications. Here’s a bit about what I’m working on and my journey so far:
-🔍 About Me
 
     🎮 Game Development: Experienced in Python game development, with projects like Snake Game and Turtle Crossing Game.
     🖥 Tech Stack: Proficient in Python, OOP, NumPy, pandas, turtle, and Unity; experienced in Figma for design.
