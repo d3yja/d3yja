@@ -2,19 +2,10 @@
 
 Welcome to my GitHub profile! I’m a 17-year-old developer with a focus on AI, data mining, and gamified applications. Here’s a bit about what I’m working on and my journey so far:
 
-    🎮 Game Development: Experienced in Python game development, with projects like Snake Game and Turtle Crossing Game.
-    🖥 Tech Stack: Proficient in Python, OOP, NumPy, pandas, turtle, and Unity; experienced in Figma for design.
 
 🛠 My Projects
 
-🎓 Gamified Student Lifestyle App (Under developement)
-
-A lifestyle app that helps students track and improve their academic stats with gamified elements:
-
-    Track Grades and Study Hours to earn experience points
-    AI-powered quizzes based on notes for mastery
-    Forums, Messaging, and Leaderboards for a community experience
-    Dark Mode, High Usability, and Offline Access
+Absolutely nothing right now but you can see the repos i made when I was learning
 
 
 💡 Current Goals
