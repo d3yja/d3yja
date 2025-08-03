@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m a 17-year-old developer with a focus on AI, 
 🛠 My Projects
 
 Rhetoric Detection in the works of Iberian women writers (based out of Castilla Leon and Aragon).
+
 Extraction and Classification of information regarding Libraries in Medieval and Early Modern Europe from bibliographies etc.
 
 
